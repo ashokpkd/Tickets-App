@@ -23,8 +23,8 @@ const Main = () => {
     {
       title: "on Hold",
       value: "60",
-    },
-  ];
+    }
+    ];
 
   const chartCard = [
     {
